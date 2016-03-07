@@ -27,10 +27,11 @@ public class Exercise25 {
 			if(b == true){
 				System.out.print(i + "--");
 				count++;
+				if(count % 5 == 0){
+					System.out.println();
+				}
 			}
-			if(count % 5 == 0){
-				System.out.println();
-			}
+			
 		}
 	}
 	/**
