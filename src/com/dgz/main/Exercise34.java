@@ -55,6 +55,10 @@ public class Exercise34 {
 		// TODO Auto-generated method stub
 		Exercise34 exercise34 = new Exercise34();
 		exercise34.method();
+		
+		/*System.out.println("请输入字符串。。");
+		String string = exercise34.inputUtils.getInputString();
+		System.out.println(string + "长度为：" + string.length());*/
 	}
 
 }
